@@ -1,0 +1,1 @@
+JWST trajectory from Earth to halo orbit around Lagrange point L2: notebook for trajectory optimization (using direct transcription and driect collocation) and trajectory stabilization using finite horizon LQR. MPC-based stabilization a work in progress.
